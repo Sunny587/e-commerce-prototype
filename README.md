@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/664ad9e8-b793-43cd-b636-ac445ba9e1df) and click on Share -> Publish.
+Simply open [Lovable]((https://mern-mart-master.lovable.app/)) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
