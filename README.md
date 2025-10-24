@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/664ad9e8-b793-43cd-b636-ac445ba9e1df
+**URL**: https://mern-mart-master.lovable.app/
 
 ## How can I edit this code?
 
