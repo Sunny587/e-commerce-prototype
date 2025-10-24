@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/664ad9e8-b793-43cd-b636-ac445ba9e1df) and start prompting.
+Simply visit the [Lovable Project]((https://mern-mart-master.lovable.app/)) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
